@@ -24,6 +24,12 @@
 
 <br />
 
+## 데모영상 (클릭!)
+https://www.youtube.com/watch?v=QKTpoahg158
+
+<br />
+
+
 # 적용 기술 및 구현 기능
 
 ## 적용 기술
